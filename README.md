@@ -1,6 +1,6 @@
 My Blog Website - README 📝
 
-![Blog Website Screenshot](https://www.pexels.com/photo/codes-on-tilt-shift-lens-2004161/) 📸
+![Blog Website Screenshot](https://www.pexels.com/photo/codes-on-tilt-shift-lens-2004161) 📸
 
     Table of Contents 📑
 - 🏠 [Project Description](#project-description)
