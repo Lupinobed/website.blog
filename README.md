@@ -41,9 +41,7 @@ This is a responsive blog website built with HTML5, CSS3, and JavaScript. The we
 This is a static website that requires no server-side installation. To run locally:  
 
 1️⃣ Clone the repository or download the ZIP file:  
-   bash
-   git clone https://github.com/yourusername/blog-website.git
-   
+   bash  
 2️⃣ Navigate to the project directory 📂  
 3️⃣ Open index.html in your preferred web browser 🌐  
 
